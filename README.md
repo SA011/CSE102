@@ -1,8 +1,8 @@
 ## **`CSE 102` : Structured Programming Language**
 
-### C Programming Language Online, Offlines and Practice Problems
+- C Programming Language Online, Offlines and Practice Problems
 
-### **`iGraphics`**
+- **`iGraphics`**
   - Solar System
 - **`Term Project`** 
   - [Fruit Ninja](https://github.com/SA011/Fruit-Ninja)
